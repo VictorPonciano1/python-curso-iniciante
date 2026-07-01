@@ -67,10 +67,3 @@ Durante o curso, foram realizados diversos exercícios com foco em:
 - O código prioriza **clareza e aprendizado**, não otimização extrema  
 - Alguns exercícios podem ter mais de uma solução  
 
-## 📌 PRÓXIMOS PASSOS
-
-- 🔗 Trabalhar com arquivos (leitura/escrita)  
-- 🌐 Introdução a APIs  
-- 🧱 Estruturas de dados mais avançadas  
-- ⚙️ Projetos práticos maiores  
-- ☁️ Integração futura com estudos de cloud (AWS/Azure)  
